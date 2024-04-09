@@ -43,7 +43,7 @@ e - exit
 
 If the ansi.py file is in the same directory the menu will look like this:
 
-![Menue Screen With ANSI file](Ansi_menu.JPG)
+![Menu Screen With ANSI file](Ansi_menu.JPG)
 
 By choosing different options in the ansi.py file the colours can easily be changed. No tests were made for colour blindness at this point but, if this file were to be distributed more wisely it would be checked for ease of viewing by those affected by colour blindness and adjusted to make the output easy to view.
 
